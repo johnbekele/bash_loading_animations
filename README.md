@@ -7,17 +7,7 @@ Ready-to-use loading animations in ASCII and UTF-8 for easy integration into you
 
 ![](demo.gif)
 
-</div>
-
-⚠ ***Important note:*** do not copy the raw script file from your browser or **you will have broken animations**, as the non-breaking spaces will be converted into regular spaces.
-
-Instead, use one of the following methods to retrieve the script:
-```bash
-git clone https://github.com/Silejonu/bash_loading_animations
-```
-```bash
-curl -O https://raw.githubusercontent.com/Silejonu/bash_loading_animations/main/bash_loading_animations.sh
-curl -O https://raw.githubusercontent.com/Silejonu/bash_loading_animations/main/bash_loading_animations.demo
+</dćng_animations.demo
 ```
 ```bash
 wget https://raw.githubusercontent.com/Silejonu/bash_loading_animations/main/bash_loading_animations.sh
